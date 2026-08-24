@@ -95,29 +95,45 @@ Ele funciona como um **intermediário** entre o usuário e a máquina.
 
 ---
 
-## 🕒 Linha do Tempo da Evolução dos SO
-''mermaid
+# 🕒 Linha do Tempo da Evolução dos Sistemas Operacionais
 
-Sistemas Operacionais
-├── Mainframes
-│   └── Bancos, e-commerce
-├── Servidores
-│   └── Linux, Windows Server
-├── Multiprocessadores
-│   └── HPC, sincronização
-├── Computadores Pessoais
-│   └── Windows, macOS, Linux
-├── Portáteis
-│   └── Android, iOS
-├── Embarcados
-│   └── TVs, carros, QNX
-├── Nós Sensores
-│   └── TinyOS, Contiki
-├── Tempo Real
-│   └── Hard vs Soft Real-Time
-└── Cartões Inteligentes
-    └── Segurança e criptografia
-''
+```mermaid
+timeline
+    title Evolução dos Sistemas Operacionais
+    1950 : 🏢 Mainframes - primeiros sistemas de grande porte (OS/360)
+    1970 : 🌍 Servidores - foco em rede e multiusuários (UNIX)
+    1980 : 💻 Computadores Pessoais - interface gráfica (Windows, macOS)
+    1990 : ⚡ Multiprocessadores - paralelismo e alto desempenho
+    2000 : 📱 Portáteis - smartphones e tablets (Android, iOS)
+    2005 : 🔧 Embarcados - TVs, carros, eletrodomésticos (QNX, VxWorks)
+    2010 : 🌱 Nós Sensores - IoT e redes sem fio (TinyOS, Contiki)
+    2015 : ⏱️ Tempo Real - aviação, automotivo, streaming
+    2020 : 💳 Cartões Inteligentes - segurança e criptografia avançada
+
+# 🧠 Mapa Mental dos Sistemas Operacionais
+
+```mermaid
+mindmap
+  root((Sistemas Operacionais))
+    🏢 Mainframes
+      OS/360
+      OS/390
+      Linux em mainframes
+    🌍 Servidores
+      Linux
+      Windows Server
+    ⚡ Multiprocessadores
+      HPC
+      Scientific Computing
+    💻 Computadores Pessoais
+      Windows
+      macOS
+      Linux
+    📱 Portáteis
+      Android
+      iOS
+    🔧 Embarcados
+
 # 🌐 Guia Interativo de Sistemas Operacionais
 
 ## 🏢 [Mainframes](https://pt.wikipedia.org/wiki/Mainframe)
