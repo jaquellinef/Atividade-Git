@@ -97,8 +97,6 @@ Ele funciona como um **intermediário** entre o usuário e a máquina.
 
 # 🕒 Linha do Tempo da Evolução dos Sistemas Operacionais
 
-# 🕒 Linha do Tempo da Evolução dos Sistemas Operacionais
-
 ```mermaid
 timeline
     title Evolução dos Sistemas Operacionais
@@ -111,6 +109,7 @@ timeline
     2010 : Nós Sensores - IoT e redes sem fio
     2015 : Tempo Real - aviação, automotivo, streaming
     2020 : Cartões Inteligentes - segurança e criptografia
+```
 
 # 🧠 Mapa Mental dos Sistemas Operacionais
 
@@ -135,6 +134,7 @@ mindmap
       Android
       iOS
     🔧 Embarcados
+```
 
 # 🌐 Guia Interativo de Sistemas Operacionais
 
