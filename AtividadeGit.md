@@ -97,3 +97,83 @@ Ele funciona como um **intermediário** entre o usuário e a máquina.
 
 ## 🕒 Linha do Tempo da Evolução dos SO
 
+Sistemas Operacionais
+├── Mainframes
+│   └── Bancos, e-commerce
+├── Servidores
+│   └── Linux, Windows Server
+├── Multiprocessadores
+│   └── HPC, sincronização
+├── Computadores Pessoais
+│   └── Windows, macOS, Linux
+├── Portáteis
+│   └── Android, iOS
+├── Embarcados
+│   └── TVs, carros, QNX
+├── Nós Sensores
+│   └── TinyOS, Contiki
+├── Tempo Real
+│   └── Hard vs Soft Real-Time
+└── Cartões Inteligentes
+    └── Segurança e criptografia
+
+# 🌐 Guia Interativo de Sistemas Operacionais
+
+## 🏢 [Mainframes](https://pt.wikipedia.org/wiki/Mainframe)
+- Alta confiabilidade e disponibilidade
+- Usados em bancos e e-commerce
+- Exemplos: OS/360, OS/390, Linux em mainframes
+
+---
+
+## 🌍 [Servidores](https://pt.wikipedia.org/wiki/Sistema_operacional_de_servidor)
+- Atendem múltiplos usuários via rede
+- Foco em estabilidade e escalabilidade
+- Exemplos: Linux, Windows Server
+
+---
+
+## ⚡ [Multiprocessadores](https://pt.wikipedia.org/wiki/Multiprocessador)
+- Suportam múltiplas CPUs/núcleos
+- Usados em HPC e computação científica
+- Desafios: escalonamento e sincronização
+
+---
+
+## 💻 [Computadores Pessoais](https://pt.wikipedia.org/wiki/Sistema_operacional)
+- Interface gráfica e multiprogramação
+- Exemplos: Windows, macOS, Linux
+
+---
+
+## 📱 [Portáteis](https://pt.wikipedia.org/wiki/Sistema_operacional_m%C3%B3vel)
+- Gerenciamento agressivo de energia
+- APIs para sensores (GPS, câmera)
+- Exemplos: Android, iOS
+
+---
+
+## 🔧 [Embarcados](https://pt.wikipedia.org/wiki/Sistema_embarcado)
+- Executam em dispositivos dedicados
+- Usados em TVs, carros, micro-ondas
+- Exemplos: QNX, VxWorks, Embedded Linux
+
+---
+
+## 🌱 [Nós Sensores](https://pt.wikipedia.org/wiki/Redes_de_sensores_sem_fio)
+- Dispositivos pequenos e com bateria limitada
+- Usados em agricultura de precisão e monitoramento ambiental
+- Exemplos: TinyOS, Contiki
+
+---
+
+## ⏱️ [Tempo Real](https://pt.wikipedia.org/wiki/Sistema_operacional_de_tempo_real)
+- **Hard Real-Time:** falha pode causar desastre (ex.: aviação)
+- **Soft Real-Time:** degradação aceitável (ex.: streaming)
+
+---
+
+## 💳 [Cartões Inteligentes](https://pt.wikipedia.org/wiki/Cart%C3%A3o_inteligente)
+- Recursos restritos
+- Segurança avançada (criptografia, autenticação)
+- Multiprogramação limitada
