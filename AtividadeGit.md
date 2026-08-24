@@ -97,18 +97,20 @@ Ele funciona como um **intermediário** entre o usuário e a máquina.
 
 # 🕒 Linha do Tempo da Evolução dos Sistemas Operacionais
 
+# 🕒 Linha do Tempo da Evolução dos Sistemas Operacionais
+
 ```mermaid
 timeline
     title Evolução dos Sistemas Operacionais
-    1950 : 🏢 Mainframes - primeiros sistemas de grande porte (OS/360)
-    1970 : 🌍 Servidores - foco em rede e multiusuários (UNIX)
-    1980 : 💻 Computadores Pessoais - interface gráfica (Windows, macOS)
-    1990 : ⚡ Multiprocessadores - paralelismo e alto desempenho
-    2000 : 📱 Portáteis - smartphones e tablets (Android, iOS)
-    2005 : 🔧 Embarcados - TVs, carros, eletrodomésticos (QNX, VxWorks)
-    2010 : 🌱 Nós Sensores - IoT e redes sem fio (TinyOS, Contiki)
-    2015 : ⏱️ Tempo Real - aviação, automotivo, streaming
-    2020 : 💳 Cartões Inteligentes - segurança e criptografia avançada
+    1950 : Mainframes - primeiros sistemas de grande porte
+    1970 : Servidores - foco em rede e multiusuários
+    1980 : Computadores Pessoais - interface gráfica
+    1990 : Multiprocessadores - paralelismo e alto desempenho
+    2000 : Portáteis - smartphones e tablets
+    2005 : Embarcados - TVs, carros, eletrodomésticos
+    2010 : Nós Sensores - IoT e redes sem fio
+    2015 : Tempo Real - aviação, automotivo, streaming
+    2020 : Cartões Inteligentes - segurança e criptografia
 
 # 🧠 Mapa Mental dos Sistemas Operacionais
 
