@@ -138,14 +138,14 @@ mindmap
 
 # 🌐 Guia Interativo de Sistemas Operacionais
 
-## 🏢 [Mainframes](https://pt.wikipedia.org/wiki/Mainframe)
+## 🏢 [Mainframes](https://www.ibm.com/br-pt/think/topics/mainframe)
 - Alta confiabilidade e disponibilidade
 - Usados em bancos e e-commerce
 - Exemplos: OS/360, OS/390, Linux em mainframes
 
 ---
 
-## 🌍 [Servidores](https://pt.wikipedia.org/wiki/Sistema_operacional_de_servidor)
+## 🌍 [Servidores](https://www.controle.net/faq/o-que-sao-servidores)
 - Atendem múltiplos usuários via rede
 - Foco em estabilidade e escalabilidade
 - Exemplos: Linux, Windows Server
