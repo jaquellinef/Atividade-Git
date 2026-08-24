@@ -96,6 +96,7 @@ Ele funciona como um **intermediário** entre o usuário e a máquina.
 ---
 
 ## 🕒 Linha do Tempo da Evolução dos SO
+''mermaid
 
 Sistemas Operacionais
 ├── Mainframes
@@ -116,7 +117,7 @@ Sistemas Operacionais
 │   └── Hard vs Soft Real-Time
 └── Cartões Inteligentes
     └── Segurança e criptografia
-
+''
 # 🌐 Guia Interativo de Sistemas Operacionais
 
 ## 🏢 [Mainframes](https://pt.wikipedia.org/wiki/Mainframe)
